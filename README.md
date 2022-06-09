@@ -9,9 +9,3 @@ Project is created with:
 * Retrofit2
 * HTML
 
-## Showcase and Screenshots
-![Main Screen](screenshots/1.jpeg)
-![Main Menu](screenshots/2.jpeg)
-![Splash Screen](screenshots/3.jpeg)
-![Favorite Movie and Movie Details](screenshots/4.jpeg)
-![Movie Search](screenshots/5.jpeg)
